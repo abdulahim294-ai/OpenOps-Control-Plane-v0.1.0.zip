@@ -1,0 +1,1 @@
+{"note":"Baseline policy is implemented in openops/policy/engine.py; this file documents the policy vocabulary for future external policy bundles.","risk_levels":["LOW","MEDIUM","HIGH","CRITICAL"],"production_requires_approval":true}

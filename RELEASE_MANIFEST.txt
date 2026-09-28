@@ -1,0 +1,10 @@
+Project: OpenOps Control Plane
+Version: 0.1.0
+Build timestamp: 2026-09-28T14:18:00Z
+Python requirement: >=3.10
+File count: 64
+SHA-256: 739bf4f9365721e21ddff92fd8a6330edbfd55ff74fbcc189b995bf82a1a310d (archive before inclusion of this manifest; a self-referential final ZIP hash is mathematically impossible)
+Tests passed: 11/11
+Smoke test passed: yes
+ZIP extraction test passed: yes
+Clean editable installation from extracted ZIP: yes
